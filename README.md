@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Helena Marti F.
 
-I'm a software developer passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I love creating intelligent, efficient, and impactful solutions by blending AI with web technologies.
+I'm a software developer passionate about Artificial Intelligence and Full-Stack Development. I love creating intelligent, efficient, and impactful solutions by blending AI with web technologies.
 
 Currently, I'm deep into an AI-focused bootcamp, mastering ML, LLMs, NLP, Computer Vision, and MLOps. I enjoy exploring advanced prompt engineering, optimizing AI workflows, and building scalable applications.
 
